@@ -30,13 +30,13 @@ hi Statement        guifg=#93C763
 hi Type             guifg=#93C763
 hi Structure        guifg=#678CB1 
 hi Tag              guifg=#93C763
+hi ErrorMsg         guifg=#FF0000 guibg=#22282A
+hi WarningMsg       guifg=#FFCD22
+hi Folded           guifg=#808080 guibg=#1C2325
+hi PMenu            guifg=#CCCCFF guibg=#1C2325
+hi PMenuSel         guibg=#2C3335
 hi xmlTagName       guifg=#93C763
 hi xmlCdata         guifg=#99A38A
 hi xmlAttrib        guifg=#678CB1
 hi htmlTagName      guifg=#93C763
 hi htmlArg          guifg=#678CB1
-hi ErrorMsg         guifg=#FF0000
-hi WarningMsg       guifg=#FFCD22
-hi Folded           guifg=#808080 guibg=#1C2325
-hi PMenu            guifg=#CCCCFF guibg=#1C2325
-hi PMenuSel         guibg=#2C3335
